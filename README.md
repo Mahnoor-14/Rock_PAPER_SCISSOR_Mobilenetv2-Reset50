@@ -48,8 +48,12 @@ EarlyStopping and ReduceLROnPlateau were employed to optimize training.
 
 Both models achieved perfect validation accuracy, though **ResNet50** may offer better generalization on more complex datasets.
 
-#repository
+#repository.
+
 ├── mobilenetv2_rps_model.h5 # Saved MobileNetV2 model
+
 ├── resnet50_rps_model.h5 # Saved ResNet50 model
+
 ├── notebook.ipynb # Complete training notebook
+
 ├── README.md # Project overview
